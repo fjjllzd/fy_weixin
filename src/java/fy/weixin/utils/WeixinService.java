@@ -128,7 +128,7 @@ public class WeixinService {
         wxuser.setEmail("tes1t@test2.com");
         wxuser.setGender("1");
         wxuser.setName("测试1");
-        wxuser.setMobile("1399111111"); //test
+        wxuser.setMobile("13992222222"); //test
         System.out.println(new WeixinService().addNewUserToWX(wxuser));
 //        System.out.println( WeixinService.getAccessTokenFromWX());
 
